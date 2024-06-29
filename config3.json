@@ -1,0 +1,38 @@
+{
+	"WindowTitle": "Project particles",
+	"WindowSizeX": 1200,
+	"WindowSizeY": 600,
+	"ParticleImage": "assets/cercle.png",
+	"Debug": true,
+
+	"InitNumParticles": 0,
+	"RandomSpawn": false,
+	"SpawnX": 600,
+	"SpawnY": 150,
+	"SpawnRate": 0.5,
+	"Vitesse": 5,
+
+	"gravity": false,
+	"GravityCoefficient": 0.1,
+
+	"Marge": true,
+	"MargeCoefficient": 10,
+	
+	"ActiveLife": true,
+	"RandomLife": true,
+	"Life": 100,
+
+	"SpawnType": "explosion",
+	"Trainee": true,
+	"RandomExplosedTime": true,
+	"ExplosedTime": 50,
+	"NbExplose": 20,
+	"VitesseExplose": 2,
+
+	"RayonApparition": 50,
+
+	"MoveGenerator": true,
+	"MouseMouvement": true,
+
+	"Configurable": true
+}
